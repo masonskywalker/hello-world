@@ -1,3 +1,3 @@
 # hello-world
-learning to use git hub
-currently working in special ed and going to school for software development
+Learning to use git hub</br>
+Currently working in special ed and going to school for software development</br>
